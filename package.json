@@ -14,5 +14,10 @@
   ],
   "dependencies": {
     "com.unity.mathematics": "1.2.6"
+  },
+  "repository": {
+    "url": "https://github.com/MerlinStudio/dev-plugins.git",
+    "type": "git",
+    "revision": ""
   }
 }
